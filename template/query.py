@@ -1,6 +1,6 @@
 import sqlite3
 
-connection = sqlite3.connect('location.db')
+connection = sqlite3.connect('Saskatoon.db')
 
 crs = connection.cursor()
 
